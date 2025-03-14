@@ -4,5 +4,4 @@ Create an iOS app that shows a list of cat breeds using this endpoint. Each row 
 what the breed is known for, and a thumbnail photo of a member of that breed. Users can sort the list by breed name or popularity.
 
 When the user taps a row, the app displays details about the breed. These details include the name of the breed, a larger photo of a 
-member of the breed, the name of the photographer, a description of the breed, a button to show the photo's license in Safari, and a button to 
-show the breed's Wikipedia article in Safari.
+member of the breed, the name of the photographer, a description of the breed and a button to show the breed's Wikipedia article in Safari.
