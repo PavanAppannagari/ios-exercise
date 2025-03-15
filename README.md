@@ -1,4 +1,4 @@
-https://github.com/PavanAppannagari/ios-exercise/blob/main/catbreeds.json
+https://raw.githubusercontent.com/PavanAppannagari/ios-exercise/refs/heads/main/catbreeds.json
 
 Create an iOS app that shows a list of cat breeds using this endpoint. Each row in the list shows the breed name, its popularity score,
 what the breed is known for, and a thumbnail photo of a member of that breed. Users can optionally sort the list by breed name or popularity.
